@@ -1,3 +1,4 @@
+// Made by: Samuli Pohjola
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 import { BottomNavigation, PaperProvider } from 'react-native-paper';
